@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.border1{
+       display: flex;
+      
+       height: 30px;
+       font-size: 20px;
+       
+}
+button{
+  height: 20px;
+  margin-left: 20px;
+}
+.input{
+  height: 30px;
+  border-radius: 10px;
+  text-align: center;
+}
+.add{
+  height: 30px;
+  width: 80px;
+  border-radius: 8px;
+  background-color: white;
+  border: px solid grey;
+}
